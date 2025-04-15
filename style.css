@@ -1,0 +1,38 @@
+body {
+    background: url(dollar-kurs-in.webp);
+}
+
+
+h2 {
+    color: green;
+    font-size: 50px;
+}
+
+.container {
+    text-align: center;
+    margin-top: -190px;
+}
+
+#amount {
+    border-radius: 30px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+#result {
+    color: red;
+    font-size: 60px;
+}
+
+.btn {
+    border-radius: 70px;
+    width: 120px;
+    height: 50px;
+    margin-top: 120px;
+    margin-left: 670px;
+    background-color: brown;
+}
+
+.from{
+    background-color: aqua;
+}
